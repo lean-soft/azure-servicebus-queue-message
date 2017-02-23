@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace azure_servicebug_queue_message
+namespace azure_servicebus_queue_message
 {
     public enum WorkMode
     {
