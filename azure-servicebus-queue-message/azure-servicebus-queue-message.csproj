@@ -7,8 +7,8 @@
     <ProjectGuid>{225F750F-9552-40C6-B2A6-9F9243707DAC}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>azure_servicebug_queue_message</RootNamespace>
-    <AssemblyName>azure-servicebug-queue-message</AssemblyName>
+    <RootNamespace>azure_servicebus_queue_message</RootNamespace>
+    <AssemblyName>azure-servicebus-queue-message</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
